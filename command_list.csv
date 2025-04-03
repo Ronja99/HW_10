@@ -1,29 +1,69 @@
-[33mcommit 5a011f562053a1e1b51d442d86b419d418d4d8a8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m
-Author: Ronja99 <rostik.shargorodsky@gmail.com>
-Date:   Thu Apr 3 20:41:58 2025 +0300
-
-    Changed 'develop_test.txt' file content
-
-[33mcommit c649a256115b2bbca5dbd161d0ed15356bb6fa6b[m
-Author: Ronja99 <rostik.shargorodsky@gmail.com>
-Date:   Thu Apr 3 20:38:25 2025 +0300
-
-    created 'develop_test.txt' file
-
-[33mcommit 66242063f63ed83b927a8909d850eed9d8926ab4[m[33m ([m[1;32mnew_branch[m[33m)[m
-Author: Ronja99 <rostik.shargorodsky@gmail.com>
-Date:   Thu Apr 3 20:36:30 2025 +0300
-
-    Added 'main_test.txt' file
-
-[33mcommit 53bd465577e41e8cf51a39c237b5a4e526ba5c6f[m
-Author: Ronja99 <rostik.shargorodsky@gmail.com>
-Date:   Thu Apr 3 20:34:05 2025 +0300
-
-    added new TXT file
-
-[33mcommit b093227a2717d21c46c8f8c529245ed259c90587[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
-Author: Ronja99 <rostik.shargorodsky@gmail.com>
-Date:   Thu Apr 3 18:57:19 2025 +0300
-
-    Initial commit
+    1  ls
+    2  ls
+    3  clear
+    4  touch file.txt
+    5  ls
+    6  git config
+    7  gitconfig Ronja99 rostik.shargorodsky@gmail.com
+    8  git config Ronja99 rostik.shargorodsky@gmail.com
+    9  git config --global Ronja99 rostik.shargorodsky@gmail.com
+   10  git config --global Ronja99
+   11  git config --global user.name Ronja99
+   12  git config --global user.email rostik.shargorodsky@gmail.com
+   13  git config --global --list
+   14  git --version
+   15  git clone https://github.com/Ronja99/HW_10
+   16  git clone https://github.com/Ronja99/HW_10.git
+   17  git status
+   18  Git status
+   19  .git
+   20  git status
+   21  ls -la
+   22  git init
+   23  git status
+   24  git log
+   25  git branch
+   26  git clone
+   27  git clone HW_10
+   28  cd hw_10
+   29  touch text_ignore.txt
+   30  git status
+   31  git add .
+   32  git add
+   33  git add .
+   34  git status
+   35  git commit -m "added new TXT file"
+   36  git status
+   37  touch main_test.txt
+   38  git add .
+   39  git commit -m "Added 'main_test.txt' file"
+   40  git checkout -b new_branch
+   41  git checkout new_branch
+   42  git checkout -b develop
+   43  git checkout develop
+   44  touch develop_test.txt
+   45  git add .
+   46  git commit -m "created 'develop_test.txt' file"
+   47  nano
+   48  nano develop_test.txt
+   49  git status
+   50  git add .
+   51  git commit -m "Changed 'develop_test.txt' file content"
+   52  git checkout main
+   53  git merge
+   54  ggit log
+   55  git log
+   56  git merge develop
+   57  git log
+   58  cd 
+   59  ls
+   60  cd downloads
+   61  ls
+   62  cd testdirectory
+   63  cd hw_10
+   64  git add .
+   65  git commit -m "merged"
+   66  git push
+   67  git status
+   68  history
+   69  history > command_list.csv
