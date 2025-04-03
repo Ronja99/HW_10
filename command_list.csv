@@ -1,0 +1,29 @@
+[33mcommit 5a011f562053a1e1b51d442d86b419d418d4d8a8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Ronja99 <rostik.shargorodsky@gmail.com>
+Date:   Thu Apr 3 20:41:58 2025 +0300
+
+    Changed 'develop_test.txt' file content
+
+[33mcommit c649a256115b2bbca5dbd161d0ed15356bb6fa6b[m
+Author: Ronja99 <rostik.shargorodsky@gmail.com>
+Date:   Thu Apr 3 20:38:25 2025 +0300
+
+    created 'develop_test.txt' file
+
+[33mcommit 66242063f63ed83b927a8909d850eed9d8926ab4[m[33m ([m[1;32mnew_branch[m[33m)[m
+Author: Ronja99 <rostik.shargorodsky@gmail.com>
+Date:   Thu Apr 3 20:36:30 2025 +0300
+
+    Added 'main_test.txt' file
+
+[33mcommit 53bd465577e41e8cf51a39c237b5a4e526ba5c6f[m
+Author: Ronja99 <rostik.shargorodsky@gmail.com>
+Date:   Thu Apr 3 20:34:05 2025 +0300
+
+    added new TXT file
+
+[33mcommit b093227a2717d21c46c8f8c529245ed259c90587[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ronja99 <rostik.shargorodsky@gmail.com>
+Date:   Thu Apr 3 18:57:19 2025 +0300
+
+    Initial commit
