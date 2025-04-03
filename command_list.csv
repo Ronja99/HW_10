@@ -67,3 +67,43 @@
    67  git status
    68  history
    69  history > command_list.csv
+   70  git add .
+   71  git commit -m "push to repository"
+   72  git push
+   73  cd downloads
+   74  ls
+   75  cd/testdirectory
+   76  cd testdirectory
+   77  git checkout -b develop
+   78  touch develop_test.txt 
+   79  git add .
+   80  git commit -m "some small change"
+   81  nano develop_test.txt
+   82  git status
+   83  git add .
+   84  got commit -m "modified 'develop_test.txt' file"
+   85  git commit -m "modified 'develop_test.txt' file"
+   86  checkout main
+   87  git checkout main
+   88  git checkout master
+   89  git checkout master
+   90  cd hw-10
+   91  cd hw_10
+   92  git checkout -b develop
+   93  git checkout develop
+   94  touch develop_test.txt
+   95  git add .
+   96  touch develop_test.txt
+   97  git add .
+   98  git commit -m "added 'develop_test.txt' file"
+   99  nano develop_test.txt
+  100  git status
+  101  got add .
+  102  git add .
+  103  git commit -m "change content of 'develop_test.txt' file"
+  104  checkout main
+  105  git checkout main
+  106  merge develop
+  107  git merge develop
+  108  git log
+  109  history > command_list.csv
